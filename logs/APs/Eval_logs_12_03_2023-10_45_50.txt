@@ -1,0 +1,4 @@
+
+Epoch	person	car	stop sign	traffic light	motorcycle	boat	truck	bus	airplane	suitcase	mAP
+0	0.001	0.001	0.079	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.008
+1	0.002	0.003	0.111	0.001	0.0	0.0	0.0	0.0	0.0	0.0	0.012

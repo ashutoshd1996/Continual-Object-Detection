@@ -1,0 +1,2 @@
+Epochs	Train dataset Size	Val dataset size	Batch size	Iterations	Learning Rate	Decay LR factor	Weight Decay
+200	496	214	4	24800	0.001	0.1	0.0005	

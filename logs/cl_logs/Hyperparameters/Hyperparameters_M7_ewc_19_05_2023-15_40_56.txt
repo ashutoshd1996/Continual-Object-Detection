@@ -1,0 +1,2 @@
+Epochs	Train dataset Size	Val dataset size	Batch size	Iterations	Learning Rate	Decay LR factor	Weight Decay	EWC Regularizer
+200	665	285	4	33200	0.001	0.1	0.0005	0.001	

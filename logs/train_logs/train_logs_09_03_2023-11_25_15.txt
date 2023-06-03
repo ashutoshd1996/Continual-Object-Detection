@@ -1,0 +1,1 @@
+Epoch	Train Loader size	Val Loss	Val Loss Average	Batch Time	Batch Time Average	Data Time	Data Time Average	Loss	Loss Average
