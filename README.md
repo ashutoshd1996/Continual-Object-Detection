@@ -27,7 +27,7 @@ Repository Organisation
  
 -----------------------------------------------------------
 
-### Model Training
+### Model Training and Evaluation
 1. To download data run :
    ```bash python COCO_Dataset_Downloading_images_and_annotations.py ```
 2. If you want to use continual learning run : 
